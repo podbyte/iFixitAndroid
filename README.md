@@ -1,5 +1,6 @@
-Official iFixit Android App v2.9.2
+Unofficial iFixit Android App
 ===========================
+*This fork will aim to update the app for modern use and improving the user experience.
 
 This app is a native Android version of the iFixit website including:
 
